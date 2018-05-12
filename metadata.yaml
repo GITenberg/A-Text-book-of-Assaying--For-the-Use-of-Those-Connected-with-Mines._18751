@@ -1,0 +1,32 @@
+_repo: A-Text-book-of-Assaying--For-the-Use-of-Those-Connected-with-Mines._18751
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Beringer, J. J. (John Jacob)
+    alias: Beringer, John Jacob
+    birthdate: 1857
+    deathdate: 1915
+    gutenberg_agent_id: '8226'
+    url: http://www.gutenberg.org/2009/agents/8226
+  - agent_name: Beringer, C. (Cornelius)
+    alias: Beringer, Cornelius
+    gutenberg_agent_id: '8225'
+    url: http://www.gutenberg.org/2009/agents/8225
+description: ''
+gutenberg_bookshelf: Chemistry
+gutenberg_issued: '2006-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18751'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TN'
+- !lcsh 'Assaying'
+title: 'A Text-book of Assaying: For the Use of Those Connected with Mines.'
+url: http://www.gutenberg.org/ebooks/18751
